@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+}
+.robot{
+    height:300px;
+    margin:5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+img{
+    text-align: center;
+    width:fit-content;
+}
